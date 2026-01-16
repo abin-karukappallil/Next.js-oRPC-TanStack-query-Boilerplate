@@ -53,8 +53,8 @@ test-orpc/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd test-orpc
+git clone https://github.com/abin-karukappallil/Next.js-oRPC-TanStack-query-Boilerplate
+cd Next.js-oRPC-TanStack-query-Boilerplate
 
 # Install dependencies
 pnpm install
